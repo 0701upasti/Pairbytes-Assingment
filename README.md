@@ -25,3 +25,6 @@ A simple Spring Boot application to demonstrate CRUD (Create, Read, Update, Dele
 1. Clone the repository:
    ```bash
    git clone https://github.com/0701upasti/Pairbytes-Assingment.git
+
+2 . Run the Script
+http://localhost:8080/viewtable
